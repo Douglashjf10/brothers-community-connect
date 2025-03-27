@@ -22,10 +22,10 @@ const Hero = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link to="/como-ajudar" className="button-primary">
+              <Link to="/como-ajudar" className="px-6 py-3 md:px-8 md:py-4 bg-primary text-primary-foreground hover:bg-primary/90 font-medium rounded-full shadow-subtle hover:shadow-hover transition-standard">
                 Como Ajudar
               </Link>
-              <Link to="/sobre" className="button-secondary">
+              <Link to="/sobre" className="px-6 py-3 md:px-8 md:py-4 bg-secondary text-secondary-foreground hover:bg-secondary/90 font-medium rounded-full shadow-subtle hover:shadow-hover transition-standard border border-border">
                 Conheça Nossa História
               </Link>
             </div>
