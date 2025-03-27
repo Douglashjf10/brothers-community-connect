@@ -24,6 +24,54 @@ const images = [
     id: 4,
     src: "lovable-uploads/Snapins.ai_476443655_933598285560306_6366711108629813502_n_1080.jpg",
     alt: "Entrega de doações"
+  },
+
+  {
+    id: 5,
+    src: "lovable-uploads/foto1.jpg",
+    alt: "cor, amor e arte"
+  },
+
+  {
+    id: 6,
+    src: "lovable-uploads/foto2.jpg",
+    alt: "circo"
+  },
+
+  {
+    id: 7,
+    src: "lovable-uploads/foto3.jpg",
+    alt: "reunião dos pais"
+  },
+
+  {
+    id: 8,
+    src: "lovable-uploads/foto4.jpg",
+    alt: "Ensinando desde pequeno"
+  },
+
+  {
+    id: 9,
+    src: "lovable-uploads/foto5.jpg",
+    alt: "Nossa sala de aulas"
+  },
+
+  {
+    id: 10,
+    src: "lovable-uploads/foto6.jpg",
+    alt: "Aulas para as crianças"
+  },
+
+  {
+    id: 11,
+    src: "lovable-uploads/foto7.jpg",
+    alt: "participação em visitas"
+  },
+
+  {
+    id: 12,
+    src: "lovable-uploads/foto8.jpg",
+    alt: "Momento descontraído"
   }
 ];
 
