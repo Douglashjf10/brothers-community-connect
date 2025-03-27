@@ -27,7 +27,7 @@ const helpOptions = [
     title: "Compartilhe Nossa Causa",
     description: "Ajude a divulgar nosso trabalho nas redes sociais e amplie nosso alcance na comunidade.",
     button: "Compartilhar",
-    link: "https://instagram.com/brothersdobem"
+    link: "https://www.instagram.com/institutobrothersdobem"
   }
 ];
 

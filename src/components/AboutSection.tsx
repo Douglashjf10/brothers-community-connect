@@ -24,8 +24,8 @@ const AboutSection = () => {
             viewport={{ once: true }}
           >
             <img 
-              src="https://source.unsplash.com/photo-1602810318383-e386cc2a3ccf" 
-              alt="Crianças felizes participando de atividades"
+              src="lovable-uploads/Snapins.ai_447939679_965993625269809_4268114597782958728_n_1080.jpg" 
+              alt="Nossa Missão"
               className="rounded-2xl shadow-subtle h-[500px] w-full object-cover"
             />
           </motion.div>

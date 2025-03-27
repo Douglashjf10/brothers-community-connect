@@ -7,22 +7,22 @@ import { ArrowRight } from 'lucide-react';
 const images = [
   {
     id: 1,
-    src: "https://source.unsplash.com/photo-1531482615713-2afd69097998",
+    src: "lovable-uploads/Snapins.ai_481387033_990009909758810_3967970599670924563_n_1080.jpg",
     alt: "Crianças em atividade educativa"
   },
   {
     id: 2,
-    src: "https://source.unsplash.com/photo-1551966775-a4ddc8df052b",
+    src: "lovable-uploads/Snapins.ai_482377677_2082804855500689_2152407945527652237_n_1080 (1).jpg",
     alt: "Voluntários realizando oficina"
   },
   {
     id: 3,
-    src: "https://source.unsplash.com/photo-1574362848149-11496d93a7c7",
+    src: "lovable-uploads/Snapins.ai_481326423_532969333149556_4558732792512643052_n_1080.jpg",
     alt: "Crianças felizes brincando"
   },
   {
     id: 4,
-    src: "https://source.unsplash.com/photo-1608889175638-9322300c643e",
+    src: "lovable-uploads/Snapins.ai_476443655_933598285560306_6366711108629813502_n_1080.jpg",
     alt: "Entrega de doações"
   }
 ];

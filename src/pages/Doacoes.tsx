@@ -130,7 +130,7 @@ const Doacoes = () => {
                       Uma contribuição pontual de qualquer valor para ajudar nossos projetos.
                     </p>
                     <a 
-                      href="https://doe.brothersdobem.org/unica" 
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSfuXU52qL_Bgl6ZOndh_-btPrhkkUsy5wuucUUB3af6sANvEg/viewform?pli=1" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mt-auto px-5 py-2 bg-primary-foreground text-primary font-medium rounded-full hover:bg-white/90 transition-standard flex items-center gap-2"
@@ -146,7 +146,7 @@ const Doacoes = () => {
                       Seja um apoiador recorrente e ajude a manter nossos projetos continuamente.
                     </p>
                     <a 
-                      href="https://doe.brothersdobem.org/mensal" 
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSfuXU52qL_Bgl6ZOndh_-btPrhkkUsy5wuucUUB3af6sANvEg/viewform?pli=1" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mt-auto px-5 py-2 bg-primary-foreground text-primary font-medium rounded-full hover:bg-white/90 transition-standard flex items-center gap-2"
@@ -157,8 +157,8 @@ const Doacoes = () => {
                 </div>
                 
                 <div className="text-center text-sm">
-                  <p className="mb-2">Também aceitamos transferências via PIX:</p>
-                  <p className="font-semibold mb-1">contato@brothersdobem.org</p>
+                  <p className="mb-2">Também aceitamos transferências via PIX: (CNPJ - 40734752000109)</p>
+                  <p className="font-semibold mb-1">jf.brothersdobem@gmail.com</p>
                   <p className="text-xs">Todos os dados são protegidos. Os recursos são auditados anualmente.</p>
                 </div>
               </div>

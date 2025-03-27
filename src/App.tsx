@@ -8,11 +8,11 @@ import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 import Doacoes from "./pages/Doacoes";
 import Contato from "./pages/Contato";
-// We'll need to implement these pages later
-// import Sobre from "./pages/Sobre";
-// import Servicos from "./pages/Servicos";
-// import ComoAjudar from "./pages/ComoAjudar";
-// import Galeria from "./pages/Galeria";
+import Sobre from "./pages/Sobre";
+import Galeria from "./pages/Galeria";
+import Servicos from "./pages/Servicos";
+import ComoAjudar from "./pages/ComoAjudar";
+
 
 const queryClient = new QueryClient();
 
@@ -26,11 +26,10 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/doacoes" element={<Doacoes />} />
           <Route path="/contato" element={<Contato />} />
-          {/* These routes will be implemented in future iterations */}
-          {/* <Route path="/sobre" element={<Sobre />} />
-          <Route path="/servicos" element={<Servicos />} />
+          <Route path="/sobre" element={<Sobre/>} />
+          <Route path="/galeria" element={<Galeria/>}/>
           <Route path="/como-ajudar" element={<ComoAjudar />} />
-          <Route path="/galeria" element={<Galeria />} /> */}
+          <Route path ="/servicos" element={<Servicos/>} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

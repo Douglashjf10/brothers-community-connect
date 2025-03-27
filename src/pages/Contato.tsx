@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { Navbar } from '@/components/Navbar';
-import { Footer } from '@/components/Footer';
+import  Navbar  from '@/components/Navbar';
+import  Footer  from '@/components/Footer';
 import ContactForm from '@/components/ContactForm';
 import { MapPin, Phone, Mail, Instagram } from 'lucide-react';
 
@@ -52,8 +52,8 @@ const Contato = () => {
                     <div>
                       <h3 className="text-xl font-semibold mb-1">Telefone</h3>
                       <p className="text-muted-foreground">
-                        <a href="https://wa.me/5500000000000" className="hover:text-primary transition-colors">
-                          (00) 00000-0000
+                        <a href="https://wa.me/5532991941147" className="hover:text-primary transition-colors">
+                          (32) 99194-1147
                         </a>
                       </p>
                     </div>
@@ -66,8 +66,8 @@ const Contato = () => {
                     <div>
                       <h3 className="text-xl font-semibold mb-1">E-mail</h3>
                       <p className="text-muted-foreground">
-                        <a href="mailto:contato@brothersdobem.org" className="hover:text-primary transition-colors">
-                          contato@brothersdobem.org
+                        <a href="mailto:jf.brothersdobem@gmail.com" className="hover:text-primary transition-colors">
+                        jf.brothersdobem@gmail.com
                         </a>
                       </p>
                     </div>
@@ -80,8 +80,8 @@ const Contato = () => {
                     <div>
                       <h3 className="text-xl font-semibold mb-1">Instagram</h3>
                       <p className="text-muted-foreground">
-                        <a href="https://instagram.com/brothersdobem" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                          @brothersdobem
+                        <a href="https://www.instagram.com/institutobrothersdobem" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                          @institutobrothersdobem
                         </a>
                       </p>
                     </div>

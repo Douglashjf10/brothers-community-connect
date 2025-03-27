@@ -57,7 +57,7 @@ const Footer = () => {
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
                 <a 
-                  href="https://wa.me/5500000000000" 
+                  href="https://wa.me/5532991941147" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-standard"
@@ -68,21 +68,21 @@ const Footer = () => {
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary" />
                 <a 
-                  href="mailto:contato@brothersdobem.org" 
+                  href="mailto:jf.brothersdobem@gmail.com" 
                   className="text-muted-foreground hover:text-foreground transition-standard"
                 >
-                  contato@brothersdobem.org
+                  jf.brothersdobem@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <Instagram className="h-4 w-4 text-primary" />
                 <a 
-                  href="https://instagram.com/brothersdobem" 
+                  href="https://www.instagram.com/institutobrothersdobem" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-standard"
                 >
-                  @brothersdobem
+                  @institutobrothersdobem
                 </a>
               </li>
             </ul>
