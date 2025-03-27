@@ -19,7 +19,7 @@ const CtaSection = () => {
           </h2>
           
           <p className="text-secondary-foreground/80 text-lg mb-10 max-w-2xl mx-auto">
-            Sua contribuição pode transformar vidas. Seja através de doações, voluntariado ou simplesmente compartilhando nossa causa, cada ajuda faz a diferença.
+            Sua contribuição pode transformar vidas. Cada ajuda faz a diferença no futuro dessas crianças.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
