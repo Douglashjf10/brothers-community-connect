@@ -31,7 +31,7 @@ const Sobre = () => {
                 viewport={{ once: true }}
               >
                 <img 
-                  src="public/lovable-uploads/dd1e05fa-f373-43d3-8042-4eb1a86ac56b.jfif" 
+                  src="lovable-uploads/sobre.jpg" 
                   alt="Crianças felizes participando de atividades"
                   className="rounded-2xl shadow-subtle h-[400px] w-full object-cover"
                 />
